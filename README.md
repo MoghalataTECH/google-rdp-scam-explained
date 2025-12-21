@@ -1,3 +1,5 @@
+هذا المستودع يوضح كيفية عمل سكريبتات Bash المزيفة لـ "RDP مجاني من Google" ولماذا تشكل خطورة على المبتدئين.
+
 This repository teaches you how *fake “Free Google RDP” Bash scripts* work and why they are risky for beginners.
 
 # Free Google RDP – Myth & Risk Demonstration (Educational)
