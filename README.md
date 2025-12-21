@@ -1,3 +1,5 @@
+This repository teaches you how *fake “Free Google RDP” Bash scripts* work and why they are risky for beginners.
+
 # Free Google RDP – Myth & Risk Demonstration (Educational)
 
 ⚠️ **EDUCATIONAL PURPOSE ONLY – NO REAL RDP IS CREATED**
