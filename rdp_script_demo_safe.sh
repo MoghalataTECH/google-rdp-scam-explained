@@ -1,4 +1,4 @@
-Certainly! Here is the interactive batch script for Windows CMD:
+Copy and past this script  in NotePad, save it as Example.bat and run it in Windows CMD:
 
 @echo off
 cls
